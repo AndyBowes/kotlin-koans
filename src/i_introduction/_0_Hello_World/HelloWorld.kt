@@ -3,7 +3,7 @@ package i_introduction._0_Hello_World.Hello
 import util.TODO
 import util.doc0
 
-fun todoTask0(): Nothing = TODO(
+fun todoTask0(): String = TODO(
     """
         Introduction:
 
@@ -24,7 +24,7 @@ fun todoTask0(): Nothing = TODO(
 )
 
 fun task0(): String {
-    return todoTask0()
+    return "OK"
 }
 
 
